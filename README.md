@@ -1,1 +1,1 @@
-https://cryptoappreact-mbaurin.netlify.app
+https://crypto-app-react-mbaurin.netlify.app
