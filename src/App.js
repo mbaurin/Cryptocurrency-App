@@ -29,13 +29,13 @@ const App = () => {
                 </div>
             </Layout>
             <div className='footer'>
-                <Typography.Title level={5} style={{color: 'white', textAlign: 'center'}}>
+                <Typography.Title level={5} style={{color: 'black', textAlign: 'center'}}>
                     Crypto-App < br/>
                     All right reserved
                 </Typography.Title>
                 <Space>
                     <Link to="/">Home</Link>
-                    <Link to="/exchanges">Exchanges</Link>
+                    <Link to="/cryptocurrencies">Cryptocurrencies</Link>
                 </Space>
             </div>
         </div>
