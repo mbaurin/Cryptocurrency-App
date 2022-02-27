@@ -9,4 +9,4 @@ The goal of this project was to :
   - Learn how to use API
   - And then deploy it
 
-The application is available here : cryptocurrencies-app-mbaurin.netlify.app
+The application is available here : https://cryptocurrencies-app-mbaurin.netlify.app/
